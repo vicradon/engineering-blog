@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Engineering Blog',
+  title: 'Engineering Exploration',
   author: 'Osinachi Chukwujama',
   headerTitle: 'EngX',
   description: 'A blog about Embedded systems, 3D modelling and things that come in between',
