@@ -1,16 +1,12 @@
 ---
-name: Tails Azimuth
+name: Osinachi Chukwujama
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Frontend Software Engineer
+company: Patricia Technologies Ltd
+email: osinachi.chukwujama@gmail.com
+twitter: https://twitter.com/vicradon
+linkedin: https://www.linkedin.com/in/chukwujama-osinachi
+github: https://github.com/vicradon
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Osinachi Chukwujama is a software engineer and technical writer that loves to solve difficult problems and write about them. He is a Mechanical Engineering undergraduate of the Federal University of Technology Owerri where he skips classes and instead focusses on learning stuff online.
