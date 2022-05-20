@@ -8,3 +8,5 @@ images: []
 layout: PostLayout
 canonicalUrl:
 ---
+
+Robotic Operating System (ROS) is a software that helps engineers model and build robotic systems. ROS has been in existence since 2007, but has been exclusive to the linux community. In this guide, you'll learn how to install ROS2 on a macOS machine using Docker.
