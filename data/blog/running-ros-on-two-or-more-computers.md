@@ -4,10 +4,12 @@ date: '2022-08-04'
 tags: ['ROS', 'ROS-Noetic', 'Docker', 'Distributed Systems', 'Linux']
 draft: false
 summary: Robot Operating System (ROS) can run a distributed system of connected sensors, actuators, and controllers. This is possible throught the master-slave architecture. This tutorial will teach you how you can run ROS Noetic on two computers, and two Docker containers.
-images: []
+images: ['/static/images/running-ros-on-two-or-more-computers.png']
 layout: PostSimple
 canonicalUrl:
 ---
+
+![Running ROS on two or more computers](/static/images/running-ros-on-two-or-more-computers.png)
 
 ## Outline
 
@@ -18,6 +20,8 @@ canonicalUrl:
   - [Run a ROS publisher](#run-a-ros-publisher)
   - [Start a listener node](#start-a-listener-node)
   - [Communicate between two Docker containers](#communicate-between-two-docker-containers)
+    - [Setting up the publisher docker container](#setting-up-the-publisher-docker-container)
+    - [Setting up the listener docker container](#setting-up-the-listener-docker-container)
 - [Conclusion](#conclusion)
 
 ## Introduction
